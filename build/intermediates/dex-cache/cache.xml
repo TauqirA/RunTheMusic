@@ -2,6 +2,13 @@
 <items version="2" >
 
     <item
+        jar="C:\Users\Main\Documents\GitHub\RunTheMusic\app\libs\postgresql-9.3-1100.jdbc4.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="fe6ed26ff71d75ebb99e2ec2123003e05ea16dc5">
+        <dex dex="C:\Users\Main\Documents\GitHub\RunTheMusic\app\build\intermediates\pre-dexed\debug\postgresql-9.3-1100.jdbc4-752e9ec541115673f80179ab3fbbc66bcb71cccc.jar" />
+    </item>
+    <item
         jar="C:\Users\Main\AndroidstudioProjects\RunTheMusic\app\libs\postgresql-9.3-1100.jdbc4.jar"
         jumboMode="false"
         revision="21.1.2"

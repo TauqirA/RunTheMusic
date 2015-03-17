@@ -1,2 +1,2 @@
-C:\Users\Main\AndroidstudioProjects\RunTheMusic\app\build\intermediates\classes\debug
-C:\Users\Main\AndroidstudioProjects\RunTheMusic\app\build\intermediates\pre-dexed\debug\postgresql-9.3-1100.jdbc4-ed52ef17e4627b58db0ff88c4a5d372c719c3a02.jar
+C:\Users\Main\Documents\GitHub\RunTheMusic\app\build\intermediates\classes\debug
+C:\Users\Main\Documents\GitHub\RunTheMusic\app\build\intermediates\pre-dexed\debug\postgresql-9.3-1100.jdbc4-752e9ec541115673f80179ab3fbbc66bcb71cccc.jar
