@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/Users/Main/AndroidstudioProjects/RunTheMusic/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="brown">#DB0C0C</color>
+    <color name="yellow">#FFFFFF</color>
+    <string name="app_name">Run The Music</string>
+    <string name="hello">Hello World, Main!</string>
+</resources>

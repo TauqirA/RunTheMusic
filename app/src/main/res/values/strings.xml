@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Main!</string>
+    <string name="app_name">Run The Music</string>
+    <color name="brown">#DB0C0C</color>
+        <color name="yellow">#FFFFFF</color>
+    
+    
+</resources>
